@@ -21,3 +21,10 @@ If you want to use a graphical user interface (GUI) for git interaction you can 
   * https://desktop.github.com/  (OSX and Windows (and linux in the near future))
   * https://www.sourcetreeapp.com/ (OSX and Windows)
   * http://www.gitkraken.com/ (New kid on the block. Currently in beta phase. Supports all OSs)
+
+## Scientific computing in python
+
+Lectures (in the form of IPython notebooks) on different topics for scientific computing. Numpy , Scipy, Matplotlib etc...
+
+[https://github.com/jrjohansson/scientific-python-lectures](https://github.com/jrjohansson/scientific-python-lectures)
+
