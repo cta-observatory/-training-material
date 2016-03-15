@@ -28,3 +28,9 @@ Lectures (in the form of IPython notebooks) on different topics for scientific c
 
 [https://github.com/jrjohansson/scientific-python-lectures](https://github.com/jrjohansson/scientific-python-lectures)
 
+### Talks on python 
+
+- [Style: beyond pep8 - Raymond Hettinger](https://youtu.be/wf-BqAjZb8M)
+- [Style: Writing beautiful idiomatic python](https://youtu.be/OSGv2VnC0go)
+- [matplotlib introduction](https://youtu.be/tWHiUk7PRyw)
+- [numba introduction](https://youtu.be/eKlNEJlSjuE)
